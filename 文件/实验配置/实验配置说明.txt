@@ -1,0 +1,9 @@
+电脑系统：Windows 10
+Keras版本：2.3.1
+TensorFlow版本：2.0.0rc0
+Python版本：Python 3.7
+CUDA版本：10.1
+NVIDIA驱动版本：418.96
+显卡型号：NVDIA GeForce GTX 1050
+cudnn版本：7.6.5
+IDE：JetBrains PyCharm Community Edition 2018.3.5 x64
